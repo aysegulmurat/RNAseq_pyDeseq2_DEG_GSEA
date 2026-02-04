@@ -10,7 +10,7 @@ The project is prepared directly for **GitHub sharing**, with clear scope defini
 
 * **GEO accession:** GSE217195
 * **Repository:** NCBI Gene Expression Omnibus (GEO)
-* **Link:** [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217195](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217195)
+* **Link:** [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217195)
 * **Organism:** *Homo sapiens*
 * **Cell line:** MOLM-13 (acute myeloid leukemia)
 
