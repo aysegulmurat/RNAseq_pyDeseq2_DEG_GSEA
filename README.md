@@ -18,36 +18,6 @@ Raw data are accessed from GEO and are **not redistributed** in this repository.
 
 ---
 
-## 🎯 Project Scope
-
-This project aims to:
-
-* Inspect and preprocess expression data from GSE217195
-* Apply appropriate filtering and normalization steps
-* Perform exploratory data analysis (EDA)
-* Visualize global expression patterns across samples
-
-The analysis is **exploratory and hypothesis-generating**. No clinical or causal claims are made.
-
----
-
-## 🧪 Analysis Workflow
-
-The analysis follows commonly accepted bulk RNA-seq best practices:
-
-1. Data loading and metadata inspection
-2. Filtering of low-expressed genes
-3. Normalization and transformation (method explicitly stated in the notebook)
-4. Exploratory analyses
-
-   * Principal Component Analysis (PCA)
-   * Sample-level visualization
-5. Optional differential expression analysis **only if group definitions are available in GEO metadata**
-
-All steps, parameters, and assumptions are documented in the notebook.
-
----
-
 ## 📊 Methodological Principles
 
 * No artificial sample groupings are introduced
@@ -66,26 +36,6 @@ These choices align with recommendations in current transcriptomics literature.
 ├── README.md                       # Project documentation
 └── data/                           # (Optional) processed input files
 ```
-
----
-
-## 🔁 Reproducibility
-
-* Single, self-contained Jupyter Notebook
-* Fixed random seeds where applicable
-* Fully transparent preprocessing and analysis steps
-
-This repository is designed for **direct reproducibility and reuse**.
-
----
-
-## ⚠️ Limitations
-
-* Analysis is restricted to a single AML cell line (MOLM-13)
-* Biological interpretation is limited by the original experimental design
-* No external validation dataset is included
-
----
 
 ## 📚 Citation
 
