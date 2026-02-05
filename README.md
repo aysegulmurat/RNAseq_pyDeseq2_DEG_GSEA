@@ -1,4 +1,4 @@
-# GSE217195 – MOLM-13 Bulk RNA-seq Analysis
+# GSE217195 – RNA-seq Analysis
 
 This repository contains a **reproducible and literature-aligned exploratory transcriptomics analysis** based on the public GEO dataset **GSE217195**, focusing on the human acute myeloid leukemia (AML) cell line **MOLM-13**.
 
